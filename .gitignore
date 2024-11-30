@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+.venv
+.ruff_cache
+
+# TypeScript
+node_modules/
+
+
+# MacOS
+.DS_Store
